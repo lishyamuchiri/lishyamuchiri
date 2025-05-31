@@ -1,6 +1,7 @@
 # Hi there, I'm LishyaMuchiri 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Writer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Writer)](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRjbGQ2M3BwZWRzNmo5ZmUxdThuNXY3azIzZTFhNHh2djFlcXZ1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SA3x5u69Z3SWzghNrU/giphy.gif)
 
 ## 🚀 About Me
 
