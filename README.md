@@ -48,8 +48,8 @@ I'm a passionate full-stack developer who loves building innovative solutions an
 ## ✍️ Latest Tech Articles
 
 <!-- Replace with your actual articles -->
-- [10 React Hooks You Should Know](https://example.com)
-- [Building Scalable Node.js Applications](https://example.com)
+- [10 React Hooks You Should Know](https://github.com/LishyaMuchiri/myportfolio)
+- [Building Scalable Node.js Applications](https://github.com/LishyaMuchiri/myportfolio)
 
 ## 📫 How to Reach Me
 
