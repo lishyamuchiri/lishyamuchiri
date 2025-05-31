@@ -42,8 +42,8 @@ I'm a passionate full-stack developer who loves building innovative solutions an
 
 ## 🎯 Featured Projects
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=LishyaMuchiri&repo=repo1&theme=radical)](https://github.com/LishyaMuchiri/repo1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=LishyaMuchiri&repo=repo2&theme=radical)](https://github.com/LishyaMuchiri/repo2)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=LishyaMuchiri&repo=myportfolio&theme=radical)](https://github.com/LishyaMuchiri/myportfolio)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=LishyaMuchiri&repo=myportfolio&theme=radical)](https://github.com/LishyaMuchiri/myportfolio)
 
 ## ✍️ Latest Tech Articles
 
