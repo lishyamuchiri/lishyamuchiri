@@ -32,24 +32,24 @@ I'm a passionate full-stack developer who loves building innovative solutions an
 
 ## 📊 GitHub Stats
 
-[![Lishya's GitHub stats](https://github-readme-stats.vercel.app/api?username=LishyaMuchiri&show_icons=true&theme=radical&hide=issues)](https://github.com/LishyaMuchiri)
+[![Lishya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lishyamuchiri&show_icons=true&theme=radical&hide=issues)](https://github.com/lishyamuchiri)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LishyaMuchiri&layout=compact&theme=radical&hide=html,css)](https://github.com/LishyaMuchiri)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lishyamuchiri&layout=compact&theme=radical&hide=html,css)](https://github.com/lishyamuchiri)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LishyaMuchiri&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lishyamuchiri&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🎯 Featured Projects
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=LishyaMuchiri&repo=myportfolio&theme=radical)](https://github.com/LishyaMuchiri/myportfolio)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=LishyaMuchiri&repo=myportfolio&theme=radical)](https://github.com/LishyaMuchiri/myportfolio)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=lishyamuchiri&repo=myportfolio&theme=radical)](https://github.com/LishyaMuchiri/myportfolio)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=lishyamuchiri&repo=myportfolio&theme=radical)](https://github.com/lishyamuchiri/myportfolio)
 
 ## ✍️ Latest Tech Articles
 
 <!-- Replace with your actual articles -->
-- [10 React Hooks You Should Know](https://github.com/LishyaMuchiri/myportfolio)
-- [Building Scalable Node.js Applications](https://github.com/LishyaMuchiri/myportfolio)
+- [10 React Hooks You Should Know](https://github.com/lishyamuchiri/myportfolio)
+- [Building Scalable Node.js Applications](https://github.com/lishyamuchiri/myportfolio)
 
 ## 📫 How to Reach Me
 
@@ -64,4 +64,4 @@ I'm a passionate full-stack developer who loves building innovative solutions an
 
 ---
 
-⭐️ From [LishyaMuchiri](https://github.com/LishyaMuchiri)
+⭐️ From [lishyamuchiri](https://github.com/lishyamuchiri)
