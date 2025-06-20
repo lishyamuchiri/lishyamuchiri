@@ -7,7 +7,7 @@
 I'm a passionate full-stack developer who loves building innovative solutions and contributing to open-source projects. 
 
 - 🔭 I'm currently working on **[project name]** (describe briefly)
-- 🌱 I'm currently learning **Next.js and GraphQL**
+- 🌱 I'm currently learning **Next.js and MERN stack**
 - 👯 I'm looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, React, or web development**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
