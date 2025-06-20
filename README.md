@@ -10,7 +10,7 @@ I'm a passionate full-stack developer who loves building innovative solutions an
 - 🌱 I'm currently learning **Next.js and MERN stack**
 - 👯 I'm looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, React, or web development**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+- ⚡ Fun fact: **🎬 I watch horror movies for fun—because jump scares don’t compare to debugging a production error at 2AM**
 
 ## 🛠️ Tech Stack
 
