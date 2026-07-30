@@ -1,6 +1,6 @@
 # Hi there, I'm Lishya Muchiri 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Writer)](https://github.com/lishyamuchiri)
+Full Stack Developer | Open Source Enthusiast | Tech Writer
 
 ## 🚀 About Me
 
@@ -32,42 +32,19 @@ I'm a passionate full-stack developer who loves building innovative solutions, w
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/lishyamuchiri">
-    <img src="https://github-readme-stats.vercel.app/api?username=lishyamuchiri&show_icons=true&theme=radical&hide=issues" alt="Lishya's GitHub Stats" height="165" />
-  </a>
-  <a href="https://github.com/lishyamuchiri">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lishyamuchiri&layout=compact&theme=radical&hide=html,css" alt="Top Languages" height="165" />
-  </a>
-</p>
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lishyamuchiri&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🎯 Featured Projects
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=lishyamuchiri&repo=myportfolio&theme=radical)](https://github.com/lishyamuchiri/myportfolio)
-<!-- Replace second repository name below -->
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=lishyamuchiri&repo=school-management-system&theme=radical)](https://github.com/lishyamuchiri)
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **School Management System** | Complete dashboard for managing school records and administrative tasks. | React, Node.js, MongoDB |
+| **Personal Portfolio** | Developer portfolio website showcasing web applications and technical articles. | React, CSS3 |
 
 ---
 
 ## ✍️ Latest Tech Articles
 
-- [10 React Hooks You Should Know](https://github.com/lishyamuchiri)
-- [Building Scalable Node.js Applications](https://github.com/lishyamuchiri)
-
----
-
-## 🎵 Currently Listening To
-
-<!-- Replace 'YOUR_SPOTIFY_USER_ID' with your actual Spotify user ID -->
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+- 📝 [10 React Hooks You Should Know](https://github.com/lishyamuchiri)
+- 📝 [Building Scalable Node.js Applications](https://github.com/lishyamuchiri)
 
 ---
 
@@ -75,7 +52,7 @@ I'm a passionate full-stack developer who loves building innovative solutions, w
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lishyamuchiri)
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/lishyadev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lishyamuchiri@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://lishya.dev)
 
 ---
